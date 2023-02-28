@@ -20,8 +20,7 @@ import HelloWorld from '@/components/HelloWorld.vue';
 
 <style scoped lang="scss">
 .page {
-  height: 100vh;
-  margin: 0 auto;
+  margin: 0 auto 30px auto;
   display: flex;
   flex-flow: column;
   justify-content: center;
